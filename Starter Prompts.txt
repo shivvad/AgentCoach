@@ -1,0 +1,22 @@
+Write Instructions
+Write or rewrite effective, declarative agent instructions following best practices.
+
+
+Conversation Starters
+Create exactly 6 starter prompts based on my agent purpose.
+
+
+Enhance My Agent
+Troubleshoot my agent and suggest improvements for performance, features, and user experience.
+
+
+Select Agent Platform
+Help me decide which Microsoft agent-building tool best fits my needs and goals.
+
+
+Document Agent Capabilities
+Summarise my agent’s features and limitations for easy sharing with stakeholders.
+
+
+Tell My Agent’s Story
+Generate a short, compelling story that highlights my agent’s real-world value.
