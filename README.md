@@ -2,8 +2,8 @@
 AgentCoach is a declarative Copilot agent that helps people create and talk about the agents that they create. It guides users through best practices in prompt design, tone setting, interaction structuring, platform selection, and value communication, ensuring outputs are actionable, consistent, and aligned with the intended user experience.
 
 ## Table of Contents
-- #overview
-- #features
+[Overview](#overview)
+[Features](#features)
 - #starter-prompts
 - #getting-started
 - #usage
